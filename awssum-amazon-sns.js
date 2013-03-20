@@ -60,7 +60,7 @@ var Sns = function(opts) {
 };
 
 // inherit from Amazon
-util.inherits(Sns, amazon.Amazon);
+util.inherits(Sns, amazon.AmazonSignatureV2);
 
 // --------------------------------------------------------------------------------------------------------------------
 // methods we need to implement from awssum.js/amazon.js
