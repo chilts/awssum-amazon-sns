@@ -1,6 +1,6 @@
 {
     "name" : "awssum-amazon-sns",
-    "description" : "NodeJS module to talk to Amazon Simple Notification Service (SNS).",
+    "description" : "AwsSum plugin for Amazon Simple Notification Service (SNS).",
     "version" : "1.0.0",
 
     "main" : "awssum-amazon-sns.js",
