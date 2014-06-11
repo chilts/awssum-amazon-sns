@@ -1,7 +1,7 @@
 {
   "name": "awssum-amazon-sns",
   "description": "AwsSum plugin for Amazon Simple Notification Service (SNS).",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "awssum-amazon-sns.js",
   "engines": {
     "node": ">= 0.6.0"
